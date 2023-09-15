@@ -1,6 +1,6 @@
-<h1 style="text-align:center;">  Hi 👋, I’m Ibad Khan </h1>
-- 👀 I’m interested in Learning new things ...
-- 🌱 I’m currently learning Mern Stack Developement ...
+<h1 style="text-align:center;">  Hi 👋, I’m Ibad Khan </h1></br>
+- 👀 I’m interested in Learning new things ...</br>
+- 🌱 I’m currently learning Mern Stack Developement ...</br>
 - 📫 How to reach me ibadurrehman718@gmail.com ...
 
 <!---
