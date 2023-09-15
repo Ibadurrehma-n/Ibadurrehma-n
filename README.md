@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Ibad
+- 👀 I’m interested in Learning new things ...
+- 🌱 I’m currently learning Mern Stack Developement ...
+- 📫 How to reach me ibadurrehman718@gmail.com ...
+
+<!---
+Ibadurrehma-n/Ibadurrehma-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
